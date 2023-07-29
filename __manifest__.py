@@ -3,11 +3,11 @@
     "summary": """Technical module to implement instant updates in POS""",
     "category": "Point of Sale",
     "images": [],
-    "version": "11.0.2.2.0",
+    "version": "12.0.2.3.0",
     "application": False,
     "author": "IT-Projects LLC, Dinar Gabbasov",
     "support": "apps@itpp.dev",
-    "website": "https://twitter.com/gabbasov_dinar",
+    "website": "https://apps.odoo.com/apps/modules/12.0/pos_longpolling/",
     "license": "Other OSI approved licence",  # MIT
     # "price": 0.00,
     # "currency": "EUR",

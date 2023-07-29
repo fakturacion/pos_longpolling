@@ -7,7 +7,7 @@ Longpolling
 
 Check following resources about activating longpolling:
 
-* Official doc: https://www.odoo.com/documentation/11.0/setup/deploy.html#builtin-server
+* Official doc: https://www.odoo.com/documentation/12.0/setup/deploy.html#builtin-server
 * Non-official doc: https://odoo-development.readthedocs.io/en/latest/admin/longpolling.html
 
 In short, you need to start server with non-zero ``workers`` parameter:::
@@ -35,6 +35,11 @@ It's highly recommended to `check odoo and postgresql settings about connections
     (1 + workers + max_cron_threads) * db_maxconn < max_connections
 
 Where ``max_connections`` is postgresql setting and the rest are from odoo.
+
+Installation
+============
+
+The module version 2.3.0 requires Odoo to be updated at least to the 2f849cf80d1262f8e801b20321d99fdff667090c commit.
 
 Usage
 =====

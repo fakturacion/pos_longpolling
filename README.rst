@@ -24,7 +24,7 @@ Contributors
 
 ===================
 
-Odoo Apps Store: https://apps.odoo.com/apps/modules/11.0/pos_longpolling/
+Odoo Apps Store: https://apps.odoo.com/apps/modules/12.0/pos_longpolling/
 
 
-Tested on `Odoo 11.0 <https://github.com/odoo/odoo/commit/88ccc406035297210cadd5c6278f6f813899001e>`_
+Tested on `Odoo 12.0 <https://github.com/odoo/odoo/commit/b05e34a0d9b13a1c6971b99ed3e5fa20199f3545>`_
